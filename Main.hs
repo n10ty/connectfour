@@ -1,5 +1,7 @@
 module Main where
 
+import Game
+import Player
 import Board
 import Data.List
 import Control.Monad
